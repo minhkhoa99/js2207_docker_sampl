@@ -14,13 +14,19 @@
 
   ## De chay docker chung ta thuc hien theo cac buoc
 
-  ### Buoc 1: Clone du an vao thu muc webapi
+  ### Buoc 1: Clone du an node vao thu muc webapi
 
-  ### Buoc 2: Clone du an vao thu muc webadmin
+  ### Buoc 2: Clone du an reactAdmin vao thu muc webadmin
 
-  ### Buoc 3: Clone du an vao thu muc webapp
+  ### Buoc 3: Clone du an web app vao thu muc webapp
 
   ### Buoc 4: Chay lenh:
+
+```
+docker-compose build //de build 1 file docker
+```
+
+sau do su dung:
 
 ```
 docker-compose up -d
